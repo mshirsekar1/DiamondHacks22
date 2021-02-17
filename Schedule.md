@@ -8,7 +8,7 @@
 |12:15pm -</br> 1:00pm|Introduction to Web Development|||
 |1:00pm -</br> 2:00pm|Sponsor Networking Lunch|||
 |2:00pm -</br> 2:30pm|Database Crash Course|Data Visualization Drop-In Session||
-|2:30pm -</br> 3:30pm|Data Science Talk|Game Development Talk|Data Visualization Drop-In Session|
+|2:30pm -</br> 3:30pm|Data Science Talk|Data Visualization Drop-In Session|Game Development Talk|
 |3:30pm -</br> 4:30pm|VR/AR Talk|UX/UI Talk||
 ---
 ## Sunday, March 28th
