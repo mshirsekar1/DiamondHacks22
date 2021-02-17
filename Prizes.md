@@ -20,15 +20,15 @@
 1 winner - $400 cash value  
 4 x $100 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
 
-😇**Best First-Timer Hack**  
+😇 **Best First-Timer Hack**  
 1 winner - $120 cash value  
 4 x $30 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.
 
-♿**Most Accessibility-Friendly**  
+♿ **Most Accessibility-Friendly**  
 1 winner - $120 cash value  
 4 x $30 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
 
-💡**Most Innovative Idea**  
+💡 **Most Innovative Idea**  
 1 winner - $120 cash value  
 4 x $30 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
 
