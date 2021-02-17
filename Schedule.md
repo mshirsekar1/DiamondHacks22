@@ -2,9 +2,9 @@
 ## Saturday, March 27th
 |      **Time**      | **Event 1** | **Event 2** |**Event 3**|
 |----------|-------------|-------------|-----------|
-|10:00am - 10:45am|Opening Ceremony with Dr. Bushra Anjum|||
-|11:00am - 11:30am|Introduction to GitHub|||
-|11:30am - 12:15pm|iOS App Development Bootcamp|Android App Development Bootcamp||
+|10:00am -</br> 10:45am|Opening Ceremony with Dr. Bushra Anjum|||
+|11:00am -</br> 11:30am|Introduction to GitHub|||
+|11:30am -</br> 12:15pm|iOS App Development Bootcamp|Android App Development Bootcamp||
 |12:15pm -</br> 1:00pm|Introduction to Web Development|||
 |1:00pm -</br> 2:00pm|Sponsor Networking Lunch|||
 |2:00pm -</br> 2:30pm|Database Crash Course|Data Visualization Drop-In Session||
