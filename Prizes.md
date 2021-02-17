@@ -1,6 +1,40 @@
+# Prizes
+
+## Award Categories
+
+### Gold Awards
+
+🏆 **Best Overall**  
+1 winner - $400 cash value
+4 x $100 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
+
+💛 **Best in Equity**  
+1 winner - $400 cash value  
+4 x $100 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
+
+✏️ **Best in Efficiency**  
+1 winner - $400 cash value
+4 x $100 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
+
+🌳 **Best in Environment**  
+1 winner - $400 cash value
+4 x $100 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
+
+😇**Best First-Timer Hack**  
+1 winner - $120 cash value
+4 x $30 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.
+
+♿**Most Accessibility-Friendly**  
+1 winner - $120 cash value  
+4 x $30 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
+
+💡**Most Innovative Idea**  
+1 winner - $120 cash value  
+4 x $30 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
+
 ## Categories
 
-This year, we encourage you to work on a hack in one of the following categories. If you submit under one of the following categories, you will be eligible for additional [prizes](Prize%Categories.md)!
+This year, we encourage you to work on a hack in one of the following categories. If you submit under one of the following categories, you will be eligible for additional prizes (see the "Best in..."s above!
 
 * 💛 Equity  
     Tackle inequities in gender, education, health, and more.  
