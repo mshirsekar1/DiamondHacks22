@@ -17,4 +17,4 @@
 |11:00am -</br> 11:30 am|How to Film, Present, and Submit your Project|||
 |***2:00pm***|***Project Submission Deadline***|
 |2:00pm -</br> 3:00pm|Judges Review Time|||
-|3:30pm -</br> 4:15pm|Closing Remarks and Awards!|||
+|3:30pm -</br> 4:15pm|Closing Ceremony and Awards|||
