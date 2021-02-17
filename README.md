@@ -6,7 +6,7 @@ This repository holds the following information:
 
 - [Rules](Rules.md): The list of rules participants must follow, taken from [MLH's Official Hackathon Rules)[].
 - [Schedule](Schedule.md): A schedule of DiamondHacks events.
-- [Judging Criteria](Judging%Criteria.md): The criteria by which your hackathon project will be judged.
+- [Judging Criteria](https://github.com/annaowens/DiamondHacks21/blob/master/Judging%20Criteria.md): The criteria by which your hackathon project will be judged.
 - [Prizes](Prizes.md): How prizes will be awarded at DiamondHacks.
 - [Cheating Response Procedure](Cheating%20Response%20Procedure.md): How people can report violations of the rules and how those reports will be dealt with.
 
