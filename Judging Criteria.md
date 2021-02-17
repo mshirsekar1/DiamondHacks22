@@ -1,5 +1,7 @@
 # Judging Criteria  
 
+_Originally forked from the official [MLH Hackathon Rules](https://github.com/MLH/mlh-hackathon-rules)._
+
 ## Demos  
 
 After hacking finishes, teams will show their projects each other and to the judges.
