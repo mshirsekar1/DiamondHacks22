@@ -1,11 +1,12 @@
-# MLH Cheating Response Procedure
+# DiamondHacks Cheating Response Procedure
+
+_Originally forked from the official [MLH Hackathon Rules](https://github.com/MLH/mlh-hackathon-rules)._
 
 The following is a guide of actions to be taken in the case of an accusation that a team cheated or otherwise violated the rules of competition. Violations of the Code of Conduct is handled under the [Incident Response Procedure](https://github.com/MLH/policies/blob/master/incident-response.md).
 Accusations of cheating may include but are not limited to:
 
 - A team using somebody else’s code
-- A team misrepresenting the work they did
-- A team having too many team members
+- A team misrepresenting the work they did  
 - A team using code that was written outside the event
 
 To determine the validity of cheating instances Major League Hacking defers to the rules adopted by the individual event. If the event did not adopt a unique set of rules, the default [MLH Hackathon Rules](https://github.com/MLH/hackathon-rules/blob/master/Rules.md) will be used.
@@ -30,10 +31,7 @@ There are also some guidelines as to what not to do as an initial response:
 - Do not ask for their advice on how to deal with the complaint. This is a staff responsibility
 - Do not offer them input into penalties. This is the staff's responsibility
 
-Once something is reported to a staff member, immediately contact the League Team at league@mlh.io. The league team currently consists of:
-
-- Chi Nguyen - chi@mlh.io
-- Carl Domingo - carl@mlh.io
+Once something is reported to a staff member, immediately contact the WiCS team at wics.ncsu@gmail.com.  
 
 You can contact them on slack (where you can also find their cell numbers). The main objectives of the meeting with the League Team are to find out the following:
 
