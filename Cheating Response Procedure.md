@@ -9,11 +9,11 @@ Accusations of cheating may include but are not limited to:
 - A team misrepresenting the work they did  
 - A team using code that was written outside the event
 
-To determine the validity of cheating instances Major League Hacking defers to the rules adopted by the individual event. If the event did not adopt a unique set of rules, the default [MLH Hackathon Rules](https://github.com/MLH/hackathon-rules/blob/master/Rules.md) will be used.
+To determine the validity of cheating instances DiamondHacks will defer to the [MLH Hackathon Rules](https://github.com/MLH/hackathon-rules/blob/master/Rules.md).
 
 ## Accusation
 
-To ensure a consistent and fair response across all events in the League, MLH will deal with cheating accusations at events in the League. If you suspect cheating, or you are an organizer who has been made aware of an accusation of cheating, please get in touch with MLH. If you are still at the event, go and find the onsite MLH representative. If it is after the event, please email league@mlh.io. The following steps are to be followed by MLH staff.
+If you suspect cheating, or you are an organizer who has been made aware of an accusation of cheating, please get in touch with DiamondHacks. If you are aware of cheating during the hackathon, contact an organizer via discord. If it is after the event, please email wics.ncsu@gmail.com. The following steps are to be followed by DiamondHacks staff.
 
 ## Document the Report
 
@@ -40,18 +40,17 @@ You can contact them on slack (where you can also find their cell numbers). The 
 - Who is doing those things?
 - When are they doing them?
 
-Once League Team have been contacted they will work with the staff member to loop in the event organizer if they are not already involved.
-The League Team will then investigate the allegation by reviewing public materials about the hack, including project repos, project submissions, and anything else available to them. 
+Once DiamondHacks has been contacted we will investigate the allegation by reviewing public materials about the hack, including project repos, project submissions, and anything else available to them. 
 
 ## Response
 
 ### Cheating Did Not Occur
 
-If MLH determines cheating did not occur, they will compile a report and inform the organizer and the reporter.
+If DiamondHacks determines cheating did not occur, they will compile a report and inform the reporter.
 
 ### Other Outcomes
 
-If MLH is unable to determine that cheating did not occur based on publicly available resources, the organizer and MLH will then communicate with the alleged cheater. Informing them of what has been reported about them.
+If DiamondHacks is unable to determine that cheating did not occur based on publicly available resources, DiamondHacks will then communicate with the alleged cheater. Informing them of what has been reported about them.
 Allow the alleged cheater to give their side of the story to the staff. After this point, if the report stands, let the alleged cheater know what actions will be taken against them.
 
 Some actions for the staff to consider when dealing with alleged cheating offenders:
@@ -65,6 +64,6 @@ Some actions for the staff to consider when dealing with alleged cheating offend
 
 Sanctions for cheating are covered by the [Disciplinary Action Policy](https://github.com/MLH/policies/blob/master/disciplinary-action.md).
 
-Depending on the cheating allegation, the League Team may decide to make one or more public announcements. If necessary, this will be done with a short announcement. No one other than MLH or someone delegated authority from MLH should make any announcements.
+Depending on the cheating allegation, DiamondHacks may decide to make one or more public announcements. If necessary, this will be done with a short announcement. No one other than DiamondHacks or someone delegated authority from DiamondHacks should make any announcements.
 
-If some attendees were angered by the cheating, it is best to apologize to them that the cheating occurred to begin with. If there are residual hard feelings, suggest to them to write an email to MLH. It will be dealt with accordingly.
+If some attendees were angered by the cheating, it is best to apologize to them that the cheating occurred to begin with. If there are residual hard feelings, suggest to them to write an email to DiamondHacks. It will be dealt with accordingly.
