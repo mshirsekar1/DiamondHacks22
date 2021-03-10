@@ -24,7 +24,7 @@
 1 winner - $200 cash value  
 4 x $50 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.
 
-🌟 **Best High School Hack**
+🌟 **Best High School Hack**  
 1 winner - $200 cash value  
 4 x $50 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
 
