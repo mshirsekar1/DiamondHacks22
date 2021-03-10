@@ -6,35 +6,35 @@
 
 🏆 **Best Overall**  
 1 winner - $800 cash value  
-4 x $200 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
+4 x $200 gift cards of your choice to Amazon, Visa, Netflix, Uber, Starbucks, LeetCode, or Spotify.  
 
 💛 **Best in Equity**  
 1 winner - $800 cash value  
-4 x $200 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
+4 x $200 gift cards of your choice to Amazon, Visa, Netflix, Uber, Starbucks, LeetCode, or Spotify.
 
 ✏️ **Best in Efficiency**  
 1 winner - $800 cash value  
-4 x $200 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.    
+4 x $200 gift cards of your choice to Amazon, Visa, Netflix, Uber, Starbucks, LeetCode, or Spotify.
 
 🌳 **Best in Environment**  
 1 winner - $800 cash value  
-4 x $200 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.   
+4 x $200 gift cards of your choice to Amazon, Visa, Netflix, Uber, Starbucks, LeetCode, or Spotify.   
 
 😇 **Best College First-Timer Hack**  
 1 winner - $200 cash value  
-4 x $50 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.
+4 x $50 gift cards of your choice to Amazon, Visa, Netflix, Uber, Starbucks, LeetCode, or Spotify.
 
 🌟 **Best High School Hack**  
 1 winner - $200 cash value  
-4 x $50 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
+4 x $50 gift cards of your choice to Amazon, Visa, Netflix, Uber, Starbucks, LeetCode, or Spotify.
 
 ♿ **Most Accessibility-Friendly**  
 1 winner - $200 cash value  
-4 x $50 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.    
+4 x $50 gift cards of your choice to Amazon, Visa, Netflix, Uber, Starbucks, LeetCode, or Spotify.  
 
 💡 **Most Innovative Idea**  
 1 winner - $200 cash value  
-4 x $50 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify. 
+4 x $50 gift cards of your choice to Amazon, Visa, Netflix, Uber, Starbucks, LeetCode, or Spotify.
 
 ## Categories
 
