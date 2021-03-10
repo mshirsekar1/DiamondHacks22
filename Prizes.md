@@ -5,32 +5,36 @@
 ### Gold Awards
 
 🏆 **Best Overall**  
-1 winner - $400 cash value  
-4 x $100 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
+1 winner - $800 cash value  
+4 x $200 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
 
 💛 **Best in Equity**  
-1 winner - $400 cash value  
-4 x $100 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
+1 winner - $800 cash value  
+4 x $200 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
 
 ✏️ **Best in Efficiency**  
-1 winner - $400 cash value  
-4 x $100 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
+1 winner - $800 cash value  
+4 x $200 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.    
 
 🌳 **Best in Environment**  
-1 winner - $400 cash value  
-4 x $100 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
+1 winner - $800 cash value  
+4 x $200 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.   
 
-😇 **Best First-Timer Hack**  
-1 winner - $120 cash value  
-4 x $30 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.
+😇 **Best College First-Timer Hack**  
+1 winner - $200 cash value  
+4 x $50 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.
+
+🌟 **Best High School Hack**
+1 winner - $200 cash value  
+4 x $50 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
 
 ♿ **Most Accessibility-Friendly**  
-1 winner - $120 cash value  
-4 x $30 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
+1 winner - $200 cash value  
+4 x $50 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.    
 
 💡 **Most Innovative Idea**  
-1 winner - $120 cash value  
-4 x $30 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify.  
+1 winner - $200 cash value  
+4 x $50 gift cards of your choice to Amazon, Visa, Neflix, Uber, Starbucks, Leetcode, or Spotify. 
 
 ## Categories
 
