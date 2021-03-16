@@ -4,7 +4,7 @@ Welcome to the official DiamondHacks github repo! DiamondHacks '21 is entirely v
 
 This repository holds the following information:
 
-- [Rules](Rules.md): The list of rules participants must follow, taken from [MLH's Official Hackathon Rules)[].
+- [Rules](Rules.md): The list of rules participants must follow, taken from [MLH's Official Hackathon Rules).
 - [Schedule](Schedule.md): A schedule of DiamondHacks events.
 - [Judging Criteria](https://github.com/annaowens/DiamondHacks21/blob/master/Judging%20Criteria.md): The criteria by which your hackathon project will be judged.
 - [Prizes](Prizes.md): How prizes will be awarded at DiamondHacks.
