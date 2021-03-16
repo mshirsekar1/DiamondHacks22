@@ -9,6 +9,7 @@ This repository holds the following information:
 - [Judging Criteria](https://github.com/annaowens/DiamondHacks21/blob/master/Judging%20Criteria.md): The criteria by which your hackathon project will be judged.
 - [Prizes](Prizes.md): How prizes will be awarded at DiamondHacks.
 - [Cheating Response Procedure](Cheating%20Response%20Procedure.md): How people can report violations of the rules and how those reports will be dealt with.
+- [Session Information](https://github.com/annaowens/DiamondHacks21/tree/master/Session%20Information): Information needed to get ready for DiamondHacks workshops.
 
 ## Categories
 
