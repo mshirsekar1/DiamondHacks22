@@ -22,6 +22,7 @@ Remember that hackathons are like marathons. Some people go to compete but most 
 11. Adding new features to existing projects is allowed. Judges will only consider new functionality introduced or new features added during the hackathon in determining the winners.
 12. Projects that violate the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf) are not allowed. 
 13. Teams can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to breaking the Competition Rules, breaking the [Code of Conduct](http://static.mlh.io/docs/mlh-code-of-conduct.pdf), or other unsporting behaviour.
+14. You may not cross-post your hack to other hackathons. All code submitted for DiamondHacks must be new, however you may add to existing code as mentioned in Rule #9. You are also welcome to attend DiamondHacks workshops while attending workshops at other hackathons at the same time! [Added on 3/24/21]
 
 
 ## Remember!
