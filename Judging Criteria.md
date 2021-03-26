@@ -12,14 +12,32 @@ You are encouraged to present what you have done even if your hack is broken or 
   
 ## Judging Criteria
 
-Teams will be judged on these four criteria. Judges will weigh the criteria equally. During judging, participants should try to describe what they did for each criterion in their project.
+Teams will be judged on these four criteria. Judges will weigh the criteria equally. During judging, participants should try to describe what they did for each criterion in their project.  
 
- * **Technology**: How technically impressive was the hack? Was the technical problem the team tackled difficult? Did it use a particularly clever technique or did it use many different components? Did the technology involved make you go "Wow"?
- * **Design**: Did the team put thought into the user experience? How well designed is the interface? For a website, this might be about how beautiful the CSS or graphics are. For a hardware project, it might be more about how good the human-computer interaction is (e.g. is it easy to use or does it use a cool interface?).
- * **Completion**: Does the hack work? Did the team achieve everything they wanted?
- * **Learning**: Did the team stretch themselves? Did they try to learn something new? What kind of projects have they worked on before? If a team which always does virtual reality projects decides to switch up and try doing a mobile app instead, that exploration should be rewarded.
+The following criteria will be used to judge the Best Overall, Best Rookie College Hack, and Best High School hack prizes:   
 
-These criteria will guide judges but ultimately judges are free to make decisions based on their gut feeling of which projects are the most impressive and most deserving.
+ * **Technology**: How technically impressive was the hack? Was the technical problem the team tackled difficult? Did it use a particularly clever technique or did it use many different components? Did the technology involved make you go "Wow"?  
+
+ * **Design**: Did the team put thought into the user experience? How well designed is the interface? For a website, this might be about how beautiful the CSS or graphics are. For a hardware project, it might be more about how good the human-computer interaction is (e.g. is it easy to use or does it use a cool interface?).  
+
+ * **Completion**: Does the hack work? Did the team achieve everything they wanted?  
+ 
+ * **Learning**: Did the team stretch themselves? Did they try to learn something new? What kind of projects have they worked on before? If a team which always does virtual reality projects decides to switch up and try doing a mobile app instead, that exploration should be rewarded.  
+
+The prizes for Most Accessible and Most Innovative will be judged on the following criteria:  
+  
+* **Accessibility**: How well does the project meet the Software Accessibility Checklist provided by the Department of Justice? It is important to note that this category is not meant for hacks that solve accessibility issues (ex. A hack that helps people learn sign language). Rather, it is for hacks that have accessibility and usability in mind when building the hack.
+
+* **Innovation**: Does the team tackle a problem that might not have been solved before? Do they come up with an interesting way to solve it? While other categories are not affected by the project’s uniqueness or innovation, this category rewards projects that have come up with an outside-the-box idea. 
+
+If you are submitting for the equity, efficiency, or environment prize categories, the following criteria will be used to judge your project for those prizes:
+
+* **Equity**: Does the project effectively tackle a relevant social issue? Did they bring awareness or propose a solution to a social issue? Did the team utilize credible data and other resources? A “good” project is one that demonstrates a team's understanding of a societal issue (socioeconomic inequalities, healthcare, poverty, politics, etc.), the factors that influence this issue, and a mission associated with this issue (call to action, proposed solution, reveal new information) in addition to the base technical criterion.
+
+* **Efficiency**: Does this project improve an existing process? Does this tool make something in our day-to-day life more manageable? Does it reduce the costs (monetary or computational) of an existing tool? You are ranking a project based on how creatively a team optimizes an existing service or proposes something new and useful. Presentations should clearly state an existing problem and explain how their tool addresses this issue.
+
+* **Environment**: Does the project effectively address an environmental issue? Did they educate, bring awareness or propose a solution to an environmental issue or topic? Did the team utilize credible data and other resources? A “good” project is one that demonstrates a team's understanding of an issue affecting the natural world (climate science, deforestation, pollution, extinction, sustainability, ecology, etc.), the factors that influence this issue, and a mission associated with this issue (call to action, proposed solution, reveal new information) in addition to the base technical criterion.  
+
 
 It's important to note that these judging criteria do not include:
 
