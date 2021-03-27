@@ -7,7 +7,7 @@
 |11:30am -</br> 12:15pm|iOS App Development Bootcamp|Android App Development Bootcamp||
 |12:15pm -</br> 1:00pm|Introduction to Web Development with Katherine Marsh|||
 |1:00pm -</br> 2:00pm|[Sponsor Networking Lunch](https://github.com/annaowens/DiamondHacks21/blob/master/Session%20Information/Sponsor%20Lunch.md)|||
-|2:00pm -</br> 2:30pm|Database Crash Course with Dr. Ignacio Dominguez|Data Visualization Drop-In Session||
+|2:00pm -</br> 2:30pm|[Database Crash Course with Dr. Ignacio Dominguez](https://github.com/annaowens/DiamondHacks21/blob/master/Session%20Information/Database%20Crash%20Course.md)|Data Visualization Drop-In Session||
 |2:30pm -</br> 3:30pm|Natural Language Processing and Augmentation Mining with Shreeya Dhakal|Data Visualization Drop-In Session|Google Cloud Platform Talk with Deutsche Bank|
 |3:30pm -</br> 4:30pm|Introduction to DevOps and Career Tips with LexisNexis|UX/UI Talk with Lowes||
 ---
