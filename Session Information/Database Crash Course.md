@@ -11,7 +11,7 @@ Here you can find supplemental information for the Database Crash Course Worksho
 <a name="before-the-workshop"></a>
 ## Before the Workshop
 
-To prepare to follow along the presentation please download and install the following resoures:
+To prepare to follow along the presentation please download and install the following resources:
 
 * [MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
 * [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
@@ -21,4 +21,8 @@ On Windows, there is an install wizard you can use. Make sure you download both 
 <a name="additional-resources"></a>
 ## Additional Resources
 
-Stay tuned for more resources and examples.
+
+### SQL Files
+
+* [Database Schema Creation](db_session_files/sql/schema.sql): This SQL file has code to create our database, create our tables, and add foreign key constraints.
+* [Sample Data](db_session_files/sql/sample_data.sql): This SQL file contains example `INSERT` statements to populate our tables with sample data.
