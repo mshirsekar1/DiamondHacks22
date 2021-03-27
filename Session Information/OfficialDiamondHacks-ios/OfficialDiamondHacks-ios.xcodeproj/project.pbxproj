@@ -1,0 +1,629 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D0D0ED3B260F8795005BBD94 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D0D0ED3A260F8795005BBD94 /* AppDelegate.m */; };
+		D0D0ED3E260F8795005BBD94 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D0D0ED3D260F8795005BBD94 /* SceneDelegate.m */; };
+		D0D0ED41260F8795005BBD94 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0D0ED40260F8795005BBD94 /* ViewController.m */; };
+		D0D0ED44260F8795005BBD94 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0D0ED42260F8795005BBD94 /* Main.storyboard */; };
+		D0D0ED46260F8796005BBD94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0D0ED45260F8796005BBD94 /* Assets.xcassets */; };
+		D0D0ED49260F8796005BBD94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0D0ED47260F8796005BBD94 /* LaunchScreen.storyboard */; };
+		D0D0ED4C260F8796005BBD94 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D0D0ED4B260F8796005BBD94 /* main.m */; };
+		D0D0ED56260F8796005BBD94 /* OfficialDiamondHacks_iosTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D0D0ED55260F8796005BBD94 /* OfficialDiamondHacks_iosTests.m */; };
+		D0D0ED61260F8796005BBD94 /* OfficialDiamondHacks_iosUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D0D0ED60260F8796005BBD94 /* OfficialDiamondHacks_iosUITests.m */; };
+		D0D0ED74260F8CB5005BBD94 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0D0ED73260F8CB5005BBD94 /* MainViewController.m */; };
+		D0D0ED7E260F9184005BBD94 /* SecretViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0D0ED7D260F9184005BBD94 /* SecretViewController.m */; };
+		D0D0ED88260F936F005BBD94 /* Diamond.m in Sources */ = {isa = PBXBuildFile; fileRef = D0D0ED87260F936F005BBD94 /* Diamond.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		D0D0ED52260F8796005BBD94 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D0D0ED2E260F8795005BBD94 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D0D0ED35260F8795005BBD94;
+			remoteInfo = "OfficialDiamondHacks-ios";
+		};
+		D0D0ED5D260F8796005BBD94 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D0D0ED2E260F8795005BBD94 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D0D0ED35260F8795005BBD94;
+			remoteInfo = "OfficialDiamondHacks-ios";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D0D0ED36260F8795005BBD94 /* OfficialDiamondHacks-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "OfficialDiamondHacks-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0D0ED39260F8795005BBD94 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		D0D0ED3A260F8795005BBD94 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		D0D0ED3C260F8795005BBD94 /* SceneDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
+		D0D0ED3D260F8795005BBD94 /* SceneDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
+		D0D0ED3F260F8795005BBD94 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		D0D0ED40260F8795005BBD94 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		D0D0ED43260F8795005BBD94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D0D0ED45260F8796005BBD94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D0D0ED48260F8796005BBD94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D0D0ED4A260F8796005BBD94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0D0ED4B260F8796005BBD94 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D0D0ED51260F8796005BBD94 /* OfficialDiamondHacks-iosTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "OfficialDiamondHacks-iosTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0D0ED55260F8796005BBD94 /* OfficialDiamondHacks_iosTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OfficialDiamondHacks_iosTests.m; sourceTree = "<group>"; };
+		D0D0ED57260F8796005BBD94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0D0ED5C260F8796005BBD94 /* OfficialDiamondHacks-iosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "OfficialDiamondHacks-iosUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0D0ED60260F8796005BBD94 /* OfficialDiamondHacks_iosUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OfficialDiamondHacks_iosUITests.m; sourceTree = "<group>"; };
+		D0D0ED62260F8796005BBD94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0D0ED72260F8CB5005BBD94 /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		D0D0ED73260F8CB5005BBD94 /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		D0D0ED7C260F9184005BBD94 /* SecretViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecretViewController.h; sourceTree = "<group>"; };
+		D0D0ED7D260F9184005BBD94 /* SecretViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecretViewController.m; sourceTree = "<group>"; };
+		D0D0ED86260F936F005BBD94 /* Diamond.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Diamond.h; sourceTree = "<group>"; };
+		D0D0ED87260F936F005BBD94 /* Diamond.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Diamond.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D0D0ED33260F8795005BBD94 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0D0ED4E260F8796005BBD94 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0D0ED59260F8796005BBD94 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D0D0ED2D260F8795005BBD94 = {
+			isa = PBXGroup;
+			children = (
+				D0D0ED38260F8795005BBD94 /* OfficialDiamondHacks-ios */,
+				D0D0ED54260F8796005BBD94 /* OfficialDiamondHacks-iosTests */,
+				D0D0ED5F260F8796005BBD94 /* OfficialDiamondHacks-iosUITests */,
+				D0D0ED37260F8795005BBD94 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D0D0ED37260F8795005BBD94 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D0D0ED36260F8795005BBD94 /* OfficialDiamondHacks-ios.app */,
+				D0D0ED51260F8796005BBD94 /* OfficialDiamondHacks-iosTests.xctest */,
+				D0D0ED5C260F8796005BBD94 /* OfficialDiamondHacks-iosUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D0D0ED38260F8795005BBD94 /* OfficialDiamondHacks-ios */ = {
+			isa = PBXGroup;
+			children = (
+				D0D0ED85260F9362005BBD94 /* Models */,
+				D0D0ED7B260F9170005BBD94 /* SecretViewController */,
+				D0D0ED71260F8C96005BBD94 /* MainViewController */,
+				D0D0ED39260F8795005BBD94 /* AppDelegate.h */,
+				D0D0ED3A260F8795005BBD94 /* AppDelegate.m */,
+				D0D0ED3C260F8795005BBD94 /* SceneDelegate.h */,
+				D0D0ED3D260F8795005BBD94 /* SceneDelegate.m */,
+				D0D0ED3F260F8795005BBD94 /* ViewController.h */,
+				D0D0ED40260F8795005BBD94 /* ViewController.m */,
+				D0D0ED42260F8795005BBD94 /* Main.storyboard */,
+				D0D0ED45260F8796005BBD94 /* Assets.xcassets */,
+				D0D0ED47260F8796005BBD94 /* LaunchScreen.storyboard */,
+				D0D0ED4A260F8796005BBD94 /* Info.plist */,
+				D0D0ED4B260F8796005BBD94 /* main.m */,
+			);
+			path = "OfficialDiamondHacks-ios";
+			sourceTree = "<group>";
+		};
+		D0D0ED54260F8796005BBD94 /* OfficialDiamondHacks-iosTests */ = {
+			isa = PBXGroup;
+			children = (
+				D0D0ED55260F8796005BBD94 /* OfficialDiamondHacks_iosTests.m */,
+				D0D0ED57260F8796005BBD94 /* Info.plist */,
+			);
+			path = "OfficialDiamondHacks-iosTests";
+			sourceTree = "<group>";
+		};
+		D0D0ED5F260F8796005BBD94 /* OfficialDiamondHacks-iosUITests */ = {
+			isa = PBXGroup;
+			children = (
+				D0D0ED60260F8796005BBD94 /* OfficialDiamondHacks_iosUITests.m */,
+				D0D0ED62260F8796005BBD94 /* Info.plist */,
+			);
+			path = "OfficialDiamondHacks-iosUITests";
+			sourceTree = "<group>";
+		};
+		D0D0ED71260F8C96005BBD94 /* MainViewController */ = {
+			isa = PBXGroup;
+			children = (
+				D0D0ED72260F8CB5005BBD94 /* MainViewController.h */,
+				D0D0ED73260F8CB5005BBD94 /* MainViewController.m */,
+			);
+			path = MainViewController;
+			sourceTree = "<group>";
+		};
+		D0D0ED7B260F9170005BBD94 /* SecretViewController */ = {
+			isa = PBXGroup;
+			children = (
+				D0D0ED7C260F9184005BBD94 /* SecretViewController.h */,
+				D0D0ED7D260F9184005BBD94 /* SecretViewController.m */,
+			);
+			path = SecretViewController;
+			sourceTree = "<group>";
+		};
+		D0D0ED85260F9362005BBD94 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				D0D0ED86260F936F005BBD94 /* Diamond.h */,
+				D0D0ED87260F936F005BBD94 /* Diamond.m */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D0D0ED35260F8795005BBD94 /* OfficialDiamondHacks-ios */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D0D0ED65260F8796005BBD94 /* Build configuration list for PBXNativeTarget "OfficialDiamondHacks-ios" */;
+			buildPhases = (
+				D0D0ED32260F8795005BBD94 /* Sources */,
+				D0D0ED33260F8795005BBD94 /* Frameworks */,
+				D0D0ED34260F8795005BBD94 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "OfficialDiamondHacks-ios";
+			productName = "OfficialDiamondHacks-ios";
+			productReference = D0D0ED36260F8795005BBD94 /* OfficialDiamondHacks-ios.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D0D0ED50260F8796005BBD94 /* OfficialDiamondHacks-iosTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D0D0ED68260F8796005BBD94 /* Build configuration list for PBXNativeTarget "OfficialDiamondHacks-iosTests" */;
+			buildPhases = (
+				D0D0ED4D260F8796005BBD94 /* Sources */,
+				D0D0ED4E260F8796005BBD94 /* Frameworks */,
+				D0D0ED4F260F8796005BBD94 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D0D0ED53260F8796005BBD94 /* PBXTargetDependency */,
+			);
+			name = "OfficialDiamondHacks-iosTests";
+			productName = "OfficialDiamondHacks-iosTests";
+			productReference = D0D0ED51260F8796005BBD94 /* OfficialDiamondHacks-iosTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D0D0ED5B260F8796005BBD94 /* OfficialDiamondHacks-iosUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D0D0ED6B260F8796005BBD94 /* Build configuration list for PBXNativeTarget "OfficialDiamondHacks-iosUITests" */;
+			buildPhases = (
+				D0D0ED58260F8796005BBD94 /* Sources */,
+				D0D0ED59260F8796005BBD94 /* Frameworks */,
+				D0D0ED5A260F8796005BBD94 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D0D0ED5E260F8796005BBD94 /* PBXTargetDependency */,
+			);
+			name = "OfficialDiamondHacks-iosUITests";
+			productName = "OfficialDiamondHacks-iosUITests";
+			productReference = D0D0ED5C260F8796005BBD94 /* OfficialDiamondHacks-iosUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D0D0ED2E260F8795005BBD94 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1240;
+				TargetAttributes = {
+					D0D0ED35260F8795005BBD94 = {
+						CreatedOnToolsVersion = 12.4;
+					};
+					D0D0ED50260F8796005BBD94 = {
+						CreatedOnToolsVersion = 12.4;
+						TestTargetID = D0D0ED35260F8795005BBD94;
+					};
+					D0D0ED5B260F8796005BBD94 = {
+						CreatedOnToolsVersion = 12.4;
+						TestTargetID = D0D0ED35260F8795005BBD94;
+					};
+				};
+			};
+			buildConfigurationList = D0D0ED31260F8795005BBD94 /* Build configuration list for PBXProject "OfficialDiamondHacks-ios" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D0D0ED2D260F8795005BBD94;
+			productRefGroup = D0D0ED37260F8795005BBD94 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D0D0ED35260F8795005BBD94 /* OfficialDiamondHacks-ios */,
+				D0D0ED50260F8796005BBD94 /* OfficialDiamondHacks-iosTests */,
+				D0D0ED5B260F8796005BBD94 /* OfficialDiamondHacks-iosUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D0D0ED34260F8795005BBD94 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0D0ED49260F8796005BBD94 /* LaunchScreen.storyboard in Resources */,
+				D0D0ED46260F8796005BBD94 /* Assets.xcassets in Resources */,
+				D0D0ED44260F8795005BBD94 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0D0ED4F260F8796005BBD94 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0D0ED5A260F8796005BBD94 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D0D0ED32260F8795005BBD94 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0D0ED88260F936F005BBD94 /* Diamond.m in Sources */,
+				D0D0ED41260F8795005BBD94 /* ViewController.m in Sources */,
+				D0D0ED3B260F8795005BBD94 /* AppDelegate.m in Sources */,
+				D0D0ED4C260F8796005BBD94 /* main.m in Sources */,
+				D0D0ED74260F8CB5005BBD94 /* MainViewController.m in Sources */,
+				D0D0ED7E260F9184005BBD94 /* SecretViewController.m in Sources */,
+				D0D0ED3E260F8795005BBD94 /* SceneDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0D0ED4D260F8796005BBD94 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0D0ED56260F8796005BBD94 /* OfficialDiamondHacks_iosTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0D0ED58260F8796005BBD94 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0D0ED61260F8796005BBD94 /* OfficialDiamondHacks_iosUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D0D0ED53260F8796005BBD94 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D0D0ED35260F8795005BBD94 /* OfficialDiamondHacks-ios */;
+			targetProxy = D0D0ED52260F8796005BBD94 /* PBXContainerItemProxy */;
+		};
+		D0D0ED5E260F8796005BBD94 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D0D0ED35260F8795005BBD94 /* OfficialDiamondHacks-ios */;
+			targetProxy = D0D0ED5D260F8796005BBD94 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		D0D0ED42260F8795005BBD94 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D0D0ED43260F8795005BBD94 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		D0D0ED47260F8796005BBD94 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D0D0ED48260F8796005BBD94 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		D0D0ED63260F8796005BBD94 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		D0D0ED64260F8796005BBD94 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D0D0ED66260F8796005BBD94 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "OfficialDiamondHacks-ios/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "myTestCode.OfficialDiamondHacks-ios";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D0D0ED67260F8796005BBD94 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "OfficialDiamondHacks-ios/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "myTestCode.OfficialDiamondHacks-ios";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		D0D0ED69260F8796005BBD94 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "OfficialDiamondHacks-iosTests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "myTestCode.OfficialDiamondHacks-iosTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OfficialDiamondHacks-ios.app/OfficialDiamondHacks-ios";
+			};
+			name = Debug;
+		};
+		D0D0ED6A260F8796005BBD94 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "OfficialDiamondHacks-iosTests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "myTestCode.OfficialDiamondHacks-iosTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OfficialDiamondHacks-ios.app/OfficialDiamondHacks-ios";
+			};
+			name = Release;
+		};
+		D0D0ED6C260F8796005BBD94 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "OfficialDiamondHacks-iosUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "myTestCode.OfficialDiamondHacks-iosUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "OfficialDiamondHacks-ios";
+			};
+			name = Debug;
+		};
+		D0D0ED6D260F8796005BBD94 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "OfficialDiamondHacks-iosUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "myTestCode.OfficialDiamondHacks-iosUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "OfficialDiamondHacks-ios";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D0D0ED31260F8795005BBD94 /* Build configuration list for PBXProject "OfficialDiamondHacks-ios" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D0D0ED63260F8796005BBD94 /* Debug */,
+				D0D0ED64260F8796005BBD94 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D0D0ED65260F8796005BBD94 /* Build configuration list for PBXNativeTarget "OfficialDiamondHacks-ios" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D0D0ED66260F8796005BBD94 /* Debug */,
+				D0D0ED67260F8796005BBD94 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D0D0ED68260F8796005BBD94 /* Build configuration list for PBXNativeTarget "OfficialDiamondHacks-iosTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D0D0ED69260F8796005BBD94 /* Debug */,
+				D0D0ED6A260F8796005BBD94 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D0D0ED6B260F8796005BBD94 /* Build configuration list for PBXNativeTarget "OfficialDiamondHacks-iosUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D0D0ED6C260F8796005BBD94 /* Debug */,
+				D0D0ED6D260F8796005BBD94 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D0D0ED2E260F8795005BBD94 /* Project object */;
+}
