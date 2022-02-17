@@ -1,6 +1,6 @@
-# Diamond Hacks '21
+# Diamond Hacks '22
 
-Welcome to the official DiamondHacks github repo! DiamondHacks '21 is entirely virtual. Check out our [website](https://www.ncsudiamondhacks.com/) for more information about the hackathon.
+Welcome to the official DiamondHacks github repo! DiamondHacks '22 is entirely virtual. Check out our [website](https://www.ncsudiamondhacks.com/) for more information about the hackathon.
 
 This repository holds the following information:
 
