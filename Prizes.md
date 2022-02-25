@@ -8,7 +8,7 @@
 1 winner - TBD prize
   
 
-💛 **Best in Social Impact **  
+💛 **Best in Social Impact**  
 1 winner - TBD prize
 
 ✏️ **Best in Innovation**  
