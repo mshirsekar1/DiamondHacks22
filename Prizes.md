@@ -5,49 +5,42 @@
 ### Gold Awards
 
 🏆 **Best Overall**  
-1 winner - $800 cash value  
-4 x $200 gift cards of your choice to Amazon, Visa, Netflix, Uber, Starbucks, LeetCode, or Spotify.  
+1 winner - TBD prize
+  
 
-💛 **Best in Equity**  
-1 winner - $800 cash value  
-4 x $200 gift cards of your choice to Amazon, Visa, Netflix, Uber, Starbucks, LeetCode, or Spotify.
+💛 **Best in Social Impact **  
+1 winner - TBD prize
 
-✏️ **Best in Efficiency**  
-1 winner - $800 cash value  
-4 x $200 gift cards of your choice to Amazon, Visa, Netflix, Uber, Starbucks, LeetCode, or Spotify.
+✏️ **Best in Innovation**  
+1 winner - TBD prize 
 
-🌳 **Best in Environment**  
-1 winner - $800 cash value  
-4 x $200 gift cards of your choice to Amazon, Visa, Netflix, Uber, Starbucks, LeetCode, or Spotify.   
+🌳 **Best in Sustainability**  
+1 winner - TBD prize 
 
 😇 **Best College First-Timer Hack**  
-1 winner - $200 cash value  
-4 x $50 gift cards of your choice to Amazon, Visa, Netflix, Uber, Starbucks, LeetCode, or Spotify.
+1 winner - TBD prize
 
 🌟 **Best High School Hack**  
-1 winner - $200 cash value  
-4 x $50 gift cards of your choice to Amazon, Visa, Netflix, Uber, Starbucks, LeetCode, or Spotify.
+1 winner - TBD prize
 
 ♿ **Most Accessibility-Friendly**  
-1 winner - $200 cash value  
-4 x $50 gift cards of your choice to Amazon, Visa, Netflix, Uber, Starbucks, LeetCode, or Spotify.  
+1 winner - TBD prize
 
-💡 **Most Innovative Idea**  
-1 winner - $200 cash value  
-4 x $50 gift cards of your choice to Amazon, Visa, Netflix, Uber, Starbucks, LeetCode, or Spotify.
+💡 **Most Creative Idea**  
+1 winner - TBD prize
 
 ## Categories
 
 This year, we encourage you to work on a hack in one of the following categories. If you submit under one of the following categories, you will be eligible for additional prizes (see the "Best in..."s above!
 
-* 💛 Equity  
+* 💛 Social Impact
     Tackle inequities in gender, education, health, and more.  
     You might build an application that makes computer education more accessible to minorities, connects people with their nearest COVID testing sites, or even tackles homelessness in your city.    
      
-* ✏️ Efficiency  
+* ✏️ Innovation  
     Hack to improve some process and improve our productivity.  
     Do you wish there were an automated process to fill out job applications? Are you unsatisfied with your current note-taking app? Find a pain point and build a solution!
   
-* 🌳 Environment</br>
+* 🌳 Sustainability</br>
     Set us on a better path towards sustainability.  
     Build a mobile app that sends daily environmental facts or a calculator that compares the environmental impact of various items at the grocery store.  Get creative with how you can help us reduce our environmental impact!  
