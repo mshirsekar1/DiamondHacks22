@@ -12,7 +12,7 @@ This repository holds the following information:
 - [Session Information](https://github.com/annaowens/DiamondHacks21/tree/master/Session%20Information): Information needed to get ready for DiamondHacks workshops.
 
 ## Registration Instructions
-* Fill out our [registration form](https://docs.google.com/forms/d/1hCgMyP4A5dGEFzrLWAKgNnZdy7bj9FvbLXf6_OwXw9s/edit)
+* Fill out our [registration form](https://docs.google.com/forms/d/e/1FAIpQLSdE38oBGaxCqi-69DqmiSHD3MdXPr3LlPKOSqMTnGfEztiGAA/viewform)
 * Join our [Discord](https://discord.com/invite/2yZf8fSZNz)
 * Read through our [website](https://www.ncsudiamondhacks.com/)
 
