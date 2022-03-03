@@ -11,6 +11,11 @@ This repository holds the following information:
 - [Cheating Response Procedure](Cheating%20Response%20Procedure.md): How people can report violations of the rules and how those reports will be dealt with.
 - [Session Information](https://github.com/annaowens/DiamondHacks21/tree/master/Session%20Information): Information needed to get ready for DiamondHacks workshops.
 
+## Registration Instructions
+* Fill out our [registration form](https://docs.google.com/forms/d/1hCgMyP4A5dGEFzrLWAKgNnZdy7bj9FvbLXf6_OwXw9s/edit)
+* Join our [Discord](https://discord.com/invite/2yZf8fSZNz)
+* Read through our [website](https://www.ncsudiamondhacks.com/)
+
 ## Categories
 
 This year, we encourage you to work on a hack in one of the following categories. If you submit under one of the following categories, you will be eligible for additional [prizes](Prize%Categories.md)!
