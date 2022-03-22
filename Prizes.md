@@ -21,7 +21,7 @@
 </br> _***All team members must be enrolled in a college program and attending their first hackathon_
 
 🌟 **Best High School Hack**  
-4 winners - Smart LED lights 
+4 winners - Smart LED Light Strips
 </br> _***All team members must be in high school_
 
 💡 **Most Creative Idea**  
