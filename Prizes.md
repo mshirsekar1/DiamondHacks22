@@ -27,7 +27,7 @@
 
 ## Categories
 
-This year, we encourage you to work on a hack in one of the following categories. If you submit under one of the following categories, you will be eligible for additional prizes (see the "Best in..."s above!
+This year, we encourage you to work on a hack in one of the following categories. If you submit under one of the following categories, you will be eligible for additional prizes (see the "Best in..."s above!)
 
 * 💛 Social Impact
     Tackle inequities in gender, education, health, and more.  
