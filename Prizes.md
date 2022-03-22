@@ -5,29 +5,25 @@
 ### Gold Awards
 
 🏆 **Best Overall**  
-1 winner - TBD prize
+4 winners - Nintendo Switch Lite
   
-
 💛 **Best in Social Impact**  
-1 winner - TBD prize
+4 winners - Amazon Alexa/Echo
 
 ✏️ **Best in Innovation**  
-1 winner - TBD prize 
+4 winners - Amazon Alexa/Echo
 
 🌳 **Best in Sustainability**  
-1 winner - TBD prize 
+4 winners - Amazon Alexa/Echo
 
 😇 **Best College First-Timer Hack**  
-1 winner - TBD prize
+4 winners - Beats Airpods
 
 🌟 **Best High School Hack**  
-1 winner - TBD prize
-
-♿ **Most Accessibility-Friendly**  
-1 winner - TBD prize
+4 winners - Smart LED lights
 
 💡 **Most Creative Idea**  
-1 winner - TBD prize
+4 winner - Fujifilm Mini Instax Camera
 
 ## Categories
 
