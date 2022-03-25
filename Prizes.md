@@ -16,7 +16,7 @@
 🌳 **Best in Sustainability**  
 4 winners - Amazon Alexa/Echo
 
-😇 **Best College First-Timer Hack**  
+😇 **Best College Rookie Hack**  
 4 winners - Beats Airpods 
 </br> _***All team members must be enrolled in a college program and attending their first hackathon_
 
