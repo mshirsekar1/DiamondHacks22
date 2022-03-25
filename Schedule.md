@@ -1,22 +1,20 @@
 # DiamondHacks '22 Schedule
 ## Saturday, March 26th
-|      **Time**      | **Event 1** | **Event 2** |**Event 3**|
-|----------|-------------|-------------|-----------|
-|09:45am -</br> 10:30am|[Opening Keynote Ceremony ](https://github.com/annaowens/DiamondHacks21/blob/master/Session%20Information/Keynote%20Speaker%20Abstract.md)|||
-|10:30am -</br> 11:00am|Introduction to GitHub|Advanced Career Workshop||
-|11:00am -</br> 11:45pm|Live Q&A with Organizers|||
-|12:00pm -</br> 12:45pm|Web Development Workshop|Mobile App iOS Workshop|Mobile App Android Workshop|
-|1:00pm -</br> 2:00pm|[Sponsor Networking Lunch](https://github.com/annaowens/DiamondHacks21/blob/master/Session%20Information/Sponsor%20Lunch.md)|||
-|2:15pm -</br> 3:00pm|Introduction to OOP|Intro to AI|
-|3:15pm -</br> 4:00pm|Data Science Career|UX/UI Career||
-|4:15pm -</br> 5:00pm|PM Roles|Cyber Career|
+|      **Time**      | **Event 1** | **Event 2** |
+|----------|-------------|-------------|
+|09:45am -</br> 10:30am|[Opening Keynote Ceremony ](https://ncsu.zoom.us/s/94527083393)|||
+|10:30am -</br> 11:00am|[Live Q&A with Organizers](https://ncsu.zoom.us/j/97614129134 )|||
+|11:00am -</br> 11:45pm|[Introduction to GitHub](https://ncsu.zoom.us/j/95587780880)|[Human Centered Design Workshop with Centene](https://ncsu.zoom.us/j/92273306001)||
+|12:00pm -</br> 12:45pm|[Web Development Workshop](https://ncsu.zoom.us/j/94776325232)||
+|1:00pm -</br> 2:00pm|[Sponsor Networking Lunch]()|||
+|2:15pm -</br> 3:00pm|[Introduction to OOP](https://ncsu.zoom.us/j/91265436557)|[Intro to ML/AI Ops](https://ncsu.zoom.us/j/96560445538)|
+|3:15pm -</br> 4:00pm|[Data Science Careers](https://ncsu.zoom.us/j/97136212194)||
+|4:15pm -</br> 5:00pm|[Product Management Careers](https://ncsu.zoom.us/j/98299750520)|[Feedback: Beyond "You're Doing Great"](https://ncsu.zoom.us/j/98299750520)|
 
 ---
 ## Sunday, March 27th
-| **Time** | **Event 1** | **Event 2** |**Event 3**|
-|----------|-------------|-------------|-----------|
-|10:00am -</br> 10:30 am|How to Film, Present, and Submit your Project|||
-|10:30am -</br> 11:00 am|Submission Q/A with Organizers|||
-|***3:00pm***|***Project Submission Deadline***|
-|5:00pm|Judging|||
-|5:30pm|Announce Winners|||
+| **Time** | **Event 1** | **Event 2** |
+|----------|-------------|-------------|
+|10:00am -</br> 10:30 am|[How to Film, Present, and Submit your Project]()||
+|***3:00pm***|***Project Submission Deadline***||
+|5:30pm|[Closing Ceremony](https://ncsu.zoom.us/s/95797939841)||
