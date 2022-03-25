@@ -9,7 +9,7 @@
 |1:00pm -</br> 2:00pm|[Sponsor Networking Lunch with Centene, Cisco, Lowes, and SAS](https://ncsu.zoom.us/j/94617665590)|||
 |2:15pm -</br> 3:00pm|[Introduction to OOP](https://ncsu.zoom.us/j/91265436557)|[Intro to ML/AI Ops](https://ncsu.zoom.us/j/96560445538)|
 |3:15pm -</br> 4:00pm|[Data Science Careers](https://ncsu.zoom.us/j/97136212194)||
-|4:15pm -</br> 5:00pm|[Product Management Careers](https://ncsu.zoom.us/j/98299750520)|[Feedback: Beyond "You're Doing Great"](https://ncsu.zoom.us/j/91300052192)|
+|4:15pm -</br> 5:00pm|[Product Management Careers with Lowes](https://ncsu.zoom.us/j/98299750520)|[Feedback: Beyond "You're Doing Great" with VMware](https://ncsu.zoom.us/j/91300052192)|
 
 ---
 ## Sunday, March 27th
