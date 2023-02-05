@@ -1,4 +1,4 @@
-# DiamondHacks '22
+# DiamondHacks '23
 
 Welcome to the official DiamondHacks github repo! DiamondHacks '22 is entirely virtual and will take place on **March 26th and March 27th**. Check out our [website](https://www.ncsudiamondhacks.com/) for more information about the hackathon.
 
